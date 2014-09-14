@@ -20,3 +20,4 @@ log4j = {
            'org.hibernate',
            'net.sf.ehcache.hibernate'
 }
+grails.validateable.packages = ['com.evernote.EvernoteConfig']
